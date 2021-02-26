@@ -1,0 +1,7 @@
+__pycache__/
+
+datasets/*/*
+
+!datasets/*/*.py
+!datasets/*/*.sh
+!datasets/*.py
